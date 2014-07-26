@@ -216,6 +216,9 @@ button.menu img {
 }
 
 main {
+  color: red;
+  font-size: 16px;
+  font-weight: bold;
   margin: 0 auto;
   /* Height of the header */
   padding: 60px 16px 16px 16px;
